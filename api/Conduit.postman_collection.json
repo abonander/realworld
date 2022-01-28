@@ -1948,23 +1948,5 @@
 				]
 			}
 		}
-	],
-	"variable": [
-		{
-			"key": "APIURL",
-			"value": "https://api.realworld.io/api"
-		},
-		{
-			"key": "USERNAME",
-			"value": "ggrignon1234"
-		},
-		{
-			"key": "PASSWORD",
-			"value": "123456"
-		},
-		{
-			"key": "EMAIL",
-			"value": "ggrignon1234@gmail.com"
-		}
 	]
 }
